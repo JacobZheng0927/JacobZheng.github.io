@@ -7,6 +7,7 @@ categories: 技术
 cover: ''
 tags: java jvm
 ---
+
 # 第1讲：Java内存区域
 
 ## 1.运行时数据区
