@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: '廖柯宇的独立博客'
-description: '昵称悟空，千禧一代，前端开发者/伪极客/灵魂摄影师，热爱技术&设计。很高兴能在这里与你分享我对技术和生活的思考。'
-keyword: '廖柯宇, 廖柯宇的独立博客, 廖柯宇的博客, 前端, 前端开发, 前端博客, javascript, vuejs, nodejs, 设计'
+title: '琥珀色的安乐窝'
+description: '95后，后端开发者，热爱技术。很高兴能在这里与你分享我对技术和生活的思考。'
+keyword: '郑彦祖, JacobZheng的独立博客, JacobZheng的博客, 后端, 后端开发, 后端博客, Java, Hadoop, Spark'
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -24,10 +24,10 @@ footer:
   since: 2017
 
 # Author 配置博主信息
-author: '廖柯宇'
-nickname: '悟空'
-bio: '前端开发者，热爱技术&设计，简单乐观爱创造'
-avatar: '/assets/img/profile.png'
+author: 'JacobZheng'
+nickname: '郑彦祖'
+bio: '后端开发，Java+大数据，热爱技术'
+avatar: '/assets/img/profile.jpg'
 
 # Search
 search: true
@@ -48,7 +48,7 @@ social-share: true
 social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
 
 # theme color 主题皮肤
-theme-color: 'default'  # pink or default
+theme-color: 'pink'  # pink or default
 
 # Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
 postPatterns: 'circuitBoard'
