@@ -1,3 +1,12 @@
+---
+layout: post
+title: '深入学习Java虚拟机：第1讲'
+subtitle: 'Java内存区域'
+date: 2020-07-22
+categories: 技术
+cover: ''
+tags: java jvm
+---
 # 第1讲：Java内存区域
 
 ## 1.运行时数据区
