@@ -26,7 +26,7 @@ footer:
 # Author 配置博主信息
 author: 'JacobZheng'
 nickname: '郑彦祖'
-bio: '后端开发，Java+大数据，热爱技术'
+bio: '后端开发 Java 大数据 云原生'
 avatar: '/assets/img/profile.jpg'
 
 # Search
@@ -37,8 +37,8 @@ nightMode: true
 
 # Comments 评论功能
 comments:
-  disqus: false
-  disqus_url: 'https://liaokeyu.disqus.com/embed.js'
+  disqus: true
+  disqus_url: 'https://jacobzheng0927.disqus.com/embed.js'
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
